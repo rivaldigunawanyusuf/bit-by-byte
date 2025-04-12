@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to **Bit-by-Byte**, a personal project where I explore and deepen my understanding of low-level programming concepts using C and C++. This project is designed to tackle various topics in programming, taking them step by step.
+Welcome to **Bit-by-Byte**, a personal project where I explore and deepen my understanding of low-level programming concepts using C and C++. This project is designed to track my learning journey as I tackle various topics in programming, taking them step by step.
 
 The name "Bit-by-Byte" reflects my approach to learning: I make steady progress by focusing on the fundamentals, incrementally building my knowledge one small step at a time.
 
@@ -22,8 +22,4 @@ The repository is organized into various sections, each focusing on different as
 ## Philosophy
 
 This project is about continuous learning. By breaking down complex topics into manageable pieces, I am able to gain a deeper understanding over time. Each new concept is an opportunity for growth.
-
-## Acknowledgments
-
-I want to thank [List of people/resources] for inspiring and contributing to my learning journey.
 
